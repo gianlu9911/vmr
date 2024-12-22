@@ -1,1 +1,1 @@
-this is a github repository fir my lab of visual and multimedia recognition
+this is a github repository for my lab of visual and multimedia recognition
